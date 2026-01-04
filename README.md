@@ -13,7 +13,7 @@ LRU Cache Visualiser is a small web app that helps you understand how a Least Re
 -> JavaScript — Logic for LRU Cache operations and interactions.
 
 **Demo:**
-You can try it live here:
+You can try it live here: **https://gayathrireddynevuri.github.io/LRU-Cache-Visualiser-WebProject/**
 
 
 <img width="960" height="434" alt="image" src="https://github.com/user-attachments/assets/ea580ab7-1f85-4d91-a84c-6f650241e707" />
