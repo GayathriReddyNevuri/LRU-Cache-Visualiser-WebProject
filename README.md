@@ -16,4 +16,4 @@ LRU Cache Visualiser is a small web app that helps you understand how a Least Re
 You can try it live here: **https://gayathrireddynevuri.github.io/LRU-Cache-Visualiser-WebProject/**
 
 
-<img width="960" height="434" alt="image" src="https://github.com/user-attachments/assets/ea580ab7-1f85-4d91-a84c-6f650241e707" />
+<img width="958" height="436" alt="image" src="https://github.com/user-attachments/assets/423bb171-7fbf-4120-a6f7-679cad206c1d" />
